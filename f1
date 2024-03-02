@@ -1,0 +1,4 @@
+void ceva()
+{
+printf("ceva");
+}

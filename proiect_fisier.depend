@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1650370035 source:c:\users\iulia\desktop\stepik_p2\proiect_fisier\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+
+1648922345 c:\users\iulia\desktop\stepik_p2\proiect_fisier\f1
+
+1650370036 source:c:\users\iulia\desktop\pp_marire\proiect_fisier\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+
+1657315489 source:c:\users\iulia\desktop\folder nou (3)\pp_marire_updated\proiect_fisier\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+

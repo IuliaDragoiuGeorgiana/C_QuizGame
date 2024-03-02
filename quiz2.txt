@@ -1,0 +1,9 @@
+Care din operele urmatoare apartin genului liric?;<Luceafarul> de Mihai Eminescu,<Ion> de Liviu Rebreanu,<O furnica> de Tudor Arghezi,<Baltagul> de Mihail Sadoveanu,;<Luceafarul> de Mihai Eminescu,<O furnica> de Tudor Arghezi,;
+Ce munti se gasesc in Romania?;Muntii Retezat,Muntii Himalaya,Muntii Alpi,Muntii Godeanu,;Muntii Retezat,Muntii Godeanu,;
+Care din urmatoarele cuvinte apartin campului semantic al familiei?;mama,soacra,familie,casa,;mama,soacra,;
+Care sunt raurile care trec prin Romania?;Mures,Volga,Nil,Bega,;Mures,Bega,;
+Care din urmatoarele animale sunt mamifere?;capra,gaina,pisica,;capra,pisica,;
+Care  din urmatoarele state apartin Uniunii Europene?;Rusia,Romania,Spania,Italia,;Romania,Spania,Italia,;
+Ce a fost Mihai Eminescu?;poet,doctor,prozator,;poet,prozator,;
+Care din urmatoarele opere au fost scrise de Mihai Eminescu?;<Floare albastra>,<Plumb>,<Seara pe deal>,;<Floare albastra>,<Seara pe deal>,;
+Care din urmatoarele state au deschidere la Marea Neagra?;Canada,Romania,Bulgaria,Turcia,;Romania,Bulgaria,Turcia,;

@@ -1,0 +1,15 @@
+Care este capitala Australiei?;Canberra,Kiev,Viena,Cairo,;Canberra;
+Pe ce continent se afla Romania?;Europa,Asia,America de Nord,;Europa;
+Care este tara a carei harta seamana cu o cizma?;SUA,Roma,Spania,Italia,Franta,;Italia;
+Cate strofe are poezia <Luceafarul> de Mihai Eminescu?;101,102,99,98,;98;
+Cand s-a sfarsit Primul Razboi Mondial?;1919,2020,1918,;1918;
+Cate culori are curcubeul?;6,7,5,4,;7;
+Ce fluviu trece prin Romania?;Dunarea,Marea Neagra,Nil,Mures,Volga,;Dunarea;
+Cate zile are un an bisect?;355,367,368,366,;366;
+Care este capitala Rusiei?;Moscova,Londra,Bucuresti,Kiev,;Moscova;
+Care este ultimul rege al Romaniei?;Iohanis,Becali,Adrian,Mihai I,;Mihai I;
+Cine a pictat <Cina cea de taina>?;Leonardo da Vinci,Picasso,Vincent van gogh,;Leonardo da Vinci;
+Cate laturi egale are un triunghi isoscel?;una,doua,trei,;doua;
+Cat de des sunt organizate Jocurile Olimpice?;8 ani,4 ani,2 ani,;4 ani;
+Cate continente exista pe Pamant?;7,5,6,;7;
+In ce an a intrat Romania in UE?;2002,2005,2007,;2007;
